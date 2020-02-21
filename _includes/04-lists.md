@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Chocolate
+- Good RPG
+- Reading
+- My wife
+- My kids
+- Good sleep
